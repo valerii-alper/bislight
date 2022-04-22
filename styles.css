@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	height: 100vh;
+	background-color: #f5fcff;
+}
+
+#background {
+	height: 100%;
+	width: 100%;
+	background-image: url("img/cloud.png"),url("img/sun.png"), url("img/grass.png"), url("img/deer.png");
+	background-repeat: repeat-x, no-repeat, repeat-x, no-repeat;
+	background-position: center 50px, top right, center bottom, center bottom;
+	background-size: auto 200px, auto 250px, auto 150px, auto 500px;
+}
+	
+}
+
+
+
+
+
+
+
+ 
